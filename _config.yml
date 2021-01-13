@@ -106,7 +106,7 @@ deploy:
   type: git
   repo: https://github.com/MadeByMars/madebymars.github.io
   branch: master
-  message: "adding 2021"
+  message: "adding s9e1"
 
 
 social_icons:
