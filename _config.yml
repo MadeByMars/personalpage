@@ -106,7 +106,7 @@ deploy:
   type: git
   repo: https://github.com/MadeByMars/madebymars.github.io
   branch: master
-  message: "adding s9e7"
+  message: "removing everything"
 
 
 social_icons:
