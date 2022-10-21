@@ -82,6 +82,7 @@ creative_commons:
 menu:
   home: / || fa fa-home
   projects: /projects || fa fa-tasks
+  publications: /publications || fa fa-book
   # blog: /blog || fa fa-blog
   #tags: /tags/ || fa fa-tags
   #categories: /categories/ || fa fa-th
